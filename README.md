@@ -157,9 +157,7 @@ vercel deploy storybook-static
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## License
-
-Private - Uzence Frontend Assignment
+## Private - Uzence Frontend Assignment
 
 ---
 
